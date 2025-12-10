@@ -1,0 +1,3 @@
+pyrogram
+tgcrypto
+pytgcalls==4.0.0
